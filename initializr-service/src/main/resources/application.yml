@@ -349,6 +349,7 @@ initializr:
             - oauth
             - oauth2
           bom: stormpath-bom
+          versionRange: "[1.5.0.RC1,]"
     - name: Template Engines
       content:
         - name: Freemarker
